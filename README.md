@@ -54,9 +54,9 @@
 
 <h3 align="left">🎵 Spotify + GitHub Stats</h3>
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aduriteja&show_icons=true&locale=en&layout=compact" alt="aduriteja Top Languages" />
+
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mqjszqxkxgembiquneorwfznaq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
   </a>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aduriteja&show_icons=true&locale=en&layout=compact" alt="aduriteja Top Languages" />
 </p>
